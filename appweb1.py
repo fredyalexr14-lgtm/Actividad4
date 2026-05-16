@@ -1,9 +1,5 @@
-#Se importa las librerias a usar
-#import dash
-#from dash import dcc, html
-import plotly.express as px
-import pandas as pd
 import streamlit as st
+import pandas as pd
 import plotly.express as px
 
 
