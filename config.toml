@@ -1,0 +1,27 @@
+
+[theme]
+# Colores principales
+primaryColor="#FF4B4B"              # Color de botones y elementos interactivos
+backgroundColor="#FFFFFF"           # Fondo principal
+secondaryBackgroundColor="#F0F2F6"  # Fondo de sidebar y widgets
+textColor="#000000"                 # Color del texto
+font="sans serif"                   # Fuente global
+
+# Opciones adicionales
+successColor="#28a745"              # Color para mensajes de éxito
+warningColor="#ffc107"              # Color para advertencias
+errorColor="#dc3545"                # Color para errores
+
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+port = 8501
+
+[client]
+toolbarMode = "minimal"   # Oculta la barra superior de Streamlit
+showErrorDetails = true   # Muestra detalles de errores
+
+[logger]
+level = "info"            # Niveles: debug, info, warning, error
