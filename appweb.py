@@ -1,8 +1,8 @@
 #Se importa las librerias a usar
-import dash
-from dash import dcc, html
+import streamlit as st
 import plotly.express as px
 import pandas as pd
+
 
 # Cargar datos
 #df = pd.read_csv("data/mortalidad.csv")
