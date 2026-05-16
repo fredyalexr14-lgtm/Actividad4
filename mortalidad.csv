@@ -1,0 +1,11 @@
+﻿DEPARTAMENTO,CIUDAD,MES,CODIGO,CAUSA,MUERTES,GRUPO_EDAD1,SEXO,Total
+Antioquia,Medellín,1,X95,Homicidio por arma de fuego,120,12,Hombre
+Antioquia,Medellín,2,I21,Infarto agudo de miocardio,85,17,Mujer
+Valle del Cauca,Cali,1,X95,Homicidio por arma de fuego,95,12,Hombre
+Valle del Cauca,Cali,3,J18,Neumonía,60,20,Hombre
+Bogotá,Bogotá,1,I21,Infarto agudo de miocardio,150,19,Mujer
+Bogotá,Bogotá,2,C34,Cáncer de pulmón,110,20,Mujer
+Atlántico,Barranquilla,1,X95,Homicidio por arma de fuego,70,13,Hombre
+Atlántico,Barranquilla,4,I10,Hipertensión esencial,55,20,Hombre
+Santander,Bucaramanga,2,J18,Neumonía,40,17,Mujer
+Santander,Bucaramanga,5,E11,Diabetes mellitus tipo 2,35,19,Hombre
