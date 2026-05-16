@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 
-
+st.title("Visualización de datos con Streamlit y Plotly")
 # Cargar datos
 #df = pd.read_csv("data/mortalidad.csv")
 df = pd.read_csv('https://raw.githubusercontent.com/fredyalexr14-lgtm/Actividad4/refs/heads/main/mortalidad.csv')
